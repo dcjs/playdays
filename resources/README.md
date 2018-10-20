@@ -21,6 +21,7 @@ Most popular front-end framework, with a fantastic ecosystem, from Facebook
 - **I'm just getting started - take me to the official docs:** https://reactjs.org/tutorial/tutorial.html
 - **I want an idea for a project to build:** https://daveceddia.com/react-practice-projects/ 
 - **I want video crash courses:** https://www.youtube.com/watch?v=Ke90Tje7VS0
+- **I want a boilerplate application to start from:** https://github.com/facebook/create-react-app
 
 ## Angular
 
