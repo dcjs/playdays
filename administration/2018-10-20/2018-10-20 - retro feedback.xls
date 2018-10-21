@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+  <Styles>
+    <Style ss:ID="Default" ss:Name="Normal">
+      <Alignment ss:Vertical="Bottom"/>
+      <Borders/>
+      <Font ss:FontName="Verdana"/>
+      <Interior/>
+      <NumberFormat/>
+      <Protection/>
+    </Style>
+    <Style ss:ID="s25">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <Font ss:FontName="Verdana" ss:Bold="1"/>
+    </Style>
+  </Styles>
+  <Worksheet ss:Name="What worked">
+    <Table ss:DefaultColumnWidth="100" ss:DefaultRowHeight="15">
+      <Row>
+        <Cell ss:StyleID="s25" ss:MergeAcross="1">
+          <Data ss:Type="String">What worked</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">Point</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Votes</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">The space! Very comfortable, great views</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">The atmosphere</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">The c/c# jokes</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">People showed up on a weekend - good attendance at ~20-25</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">The breadth of experience from attendees</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+  <Worksheet ss:Name="What didn&amp;#39;t work">
+    <Table ss:DefaultColumnWidth="100" ss:DefaultRowHeight="15">
+      <Row>
+        <Cell ss:StyleID="s25" ss:MergeAcross="1">
+          <Data ss:Type="String">What didn&amp;#39;t work</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">Point</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Votes</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">Getting into the building easily.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+  <Worksheet ss:Name="Comments">
+    <Table ss:DefaultColumnWidth="100" ss:DefaultRowHeight="15">
+      <Row>
+        <Cell ss:StyleID="s25" ss:MergeAcross="1">
+          <Data ss:Type="String">Comments</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">Point</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Votes</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">Great stuff!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">I really appreciated the intros at the beginning, especially having folks whose companies are hiring say so.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+</Workbook>
