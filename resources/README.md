@@ -6,6 +6,7 @@ Check out links below for suggestions on where to start; feel free to PR with an
 
 It's essential to have a solid understanding of JS, in any Node or front-end role
 - **I'm just getting started:** https://www.udacity.com/course/intro-to-javascript--ud803
+- **I want to test snippets of JavaScript code:** https://repl.it/
 - **I want to improve my skills:** https://javascript30.com/
 - **I want to learn ES6 features:** https://github.com/metagrover/ES6-for-humans
 
@@ -13,6 +14,7 @@ It's essential to have a solid understanding of JS, in any Node or front-end rol
 
 The OG "Playday" content - nodeschool provides fantastic, guided tutorials on server-side JavaScript
 - **I'm just getting started:** https://nodeschool.io/#workshoppers
+- **I want to try out a NPM module in the browser:** https://runkit.com/home
 
 ## React
 
@@ -22,6 +24,7 @@ Most popular front-end framework, with a fantastic ecosystem, from Facebook
 - **I want an idea for a project to build:** https://daveceddia.com/react-practice-projects/ 
 - **I want video crash courses:** https://www.youtube.com/watch?v=Ke90Tje7VS0
 - **I want a boilerplate application to start from:** https://github.com/facebook/create-react-app
+- **I want an all-in-one guide to developing a React application:** http://www.react.express/
 
 ## Angular
 
