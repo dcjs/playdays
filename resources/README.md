@@ -5,7 +5,8 @@ Check out links below for suggestions on where to start; feel free to PR with an
 ## JavaScript
 
 It's essential to have a solid understanding of JS, in any Node or front-end role
-- **I'm just getting started:** https://www.udacity.com/course/intro-to-javascript--ud803
+- **I'm just getting started with front-end web development:** https://frontendmasters.com/books/front-end-handbook/2019/
+- **I'm just getting started with JavaScript:** https://www.udacity.com/course/intro-to-javascript--ud803
 - **I want to test snippets of JavaScript code:** https://repl.it/
 - **I want to improve my skills:** https://javascript30.com/
 - **I want to learn ES6 features:** https://github.com/metagrover/ES6-for-humans
