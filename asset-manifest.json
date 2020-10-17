@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/playdays/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/playdays/static/js/main.50da8612.chunk.js",
+    "main.js.map": "/playdays/static/js/main.50da8612.chunk.js.map",
+    "runtime-main.js": "/playdays/static/js/runtime-main.a3c04428.js",
+    "runtime-main.js.map": "/playdays/static/js/runtime-main.a3c04428.js.map",
+    "static/js/2.32d974c6.chunk.js": "/playdays/static/js/2.32d974c6.chunk.js",
+    "static/js/2.32d974c6.chunk.js.map": "/playdays/static/js/2.32d974c6.chunk.js.map",
+    "index.html": "/playdays/index.html",
+    "precache-manifest.d1a87d1a2cf8daf764f3ddb8680ac91d.js": "/playdays/precache-manifest.d1a87d1a2cf8daf764f3ddb8680ac91d.js",
+    "service-worker.js": "/playdays/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/playdays/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.32d974c6.chunk.js.LICENSE.txt": "/playdays/static/js/2.32d974c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3c04428.js",
+    "static/js/2.32d974c6.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.50da8612.chunk.js"
+  ]
+}
